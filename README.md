@@ -80,3 +80,4 @@ This template also supports custom fields if you wish to add your own extra sect
 
 Go to the [Shopify app store](https://apps.shopify.com/) and add ACF: Metafields Custom Fields. Start creating your custom metafields.
 Currently this theme supports metafields on the _about_ and _contacts_ pages, you can specify what you want to retrieve in the metafields array inside those pages.
+"# panini"
